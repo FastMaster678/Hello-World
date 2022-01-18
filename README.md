@@ -1,3 +1,2 @@
 # hello-world
-A simple Hello World project by me.
-This is only a test!
+This is the branch for edits to the ReadMe file in the parent repo.
