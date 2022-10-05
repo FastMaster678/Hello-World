@@ -1,3 +1,3 @@
 # hello-world-Mobile-Edition
-This is a in-development mobile version of Hello World.
-It will release by May 10th, 2022.
+Hello World, on your (emulated) phone!
+Android edition is coming soon.
