@@ -1,2 +1,2 @@
 # readme-edits
-This is the branch for edits to the ReadMe file in the parent branch.
+This is the main branch I can use to make more. That's it...
