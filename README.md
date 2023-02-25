@@ -1,4 +1,4 @@
-# readme-edits
+# Homepage
 <img src="/Test/Hello World!.png" width="900" height="723"/>
 Welcome to my Hello World repository!
 Some people use Hello World as a simple sentence to test code.
